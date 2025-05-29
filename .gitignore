@@ -1,0 +1,13 @@
+.env
+vendor/webklex/php-imap/tests/messages/*
+.env
+storage/dotenv-editor/*
+vendor/webklex/php-imap/tests/messages/*
+.env.example
+.pre-commit-config.yaml
+.env
+storage/dotenv-editor/*
+vendor/webklex/php-imap/tests/messages/*
+.env.example
+.pre-commit-config.yaml
+.env
